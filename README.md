@@ -1,6 +1,6 @@
 📝 [CEH Practical Exam Notes](https://0xd13.notion.site/CEH-Practical-Exam-Notes-118bf64d11f780c196a0e295a82da6d6)  
 📝 [Ethernaut Challenge Solutions with Foundry](https://github.com/0xD13/Ethernaut-Challenge-Solutions-with-Foundry)  
-📝 [CTF Writeups]([https://github.com/0xD13/PicoCTF-Writeup](https://github.com/0xD13/CTF-Record-and-Write-up))
+📝 [CTF Writeups](https://github.com/0xD13/CTF-Record-and-Write-up)
 <!--
 ## Hi there 👋
 - 🌱 I’m currently learning ...
